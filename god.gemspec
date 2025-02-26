@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   # s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
 
   s.name = 'god'
-  s.version = '0.13.8.1'
+  s.version = '0.13.8.2'
   s.date = '2015-10-19'
 
   s.summary = "Process monitoring framework."
